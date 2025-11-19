@@ -2,7 +2,7 @@
 
 ![Golf Scoreboard](https://github.com/user-attachments/assets/2b02a79e-e9d9-4163-8f85-0dac71bc5220)
 
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/username/repository-name?style=for-the-badge&color=0df0ff&labelColor=000000&logo=github)](https://github.com/username/repository-name)  
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/DibzDev/Golf-Scoreboard?style=for-the-badge&color=0df0ff&labelColor=000000&logo=github)](https://github.com/username/repository-name)  
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)](https://tailwindcss.com/)  
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 [![License](https://img.shields.io/badge/License-MIT-ff00ff?style=for-the-badge&logo=appveyor)](LICENSE)  
