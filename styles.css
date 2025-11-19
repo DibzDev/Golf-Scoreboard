@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+body {
+  font-family: 'Inter', sans-serif;
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.hole-card {
+  transition: transform 0.3s, box-shadow 0.3s, background-color 0.3s;
+}
+
+.hole-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 25px rgba(0,0,0,0.15);
+}
+
+.result-display {
+  transition: all 0.3s ease;
+}
+
+.result-display.bg-yellow-100 { background-color: #fefcbf; color: #78350f; }
+.result-display.bg-green-100  { background-color: #bbf7d0; color: #065f46; }
+.result-display.bg-teal-100   { background-color: #99f6e4; color: #0f766e; }
+.result-display.bg-blue-100   { background-color: #bfdbfe; color: #1d4ed8; }
+.result-display.bg-orange-100 { background-color: #fed7aa; color: #c2410c; }
+.result-display.bg-red-100    { background-color: #fecaca; color: #b91c1c; }
+.result-display.bg-gray-100   { background-color: #f3f4f6; color: #374151; }
+
+/* Dark mode result overrides */
+.dark .result-display.bg-yellow-100 { background-color: #78350f; color: #fefcbf; }
+.dark .result-display.bg-green-100  { background-color: #065f46; color: #bbf7d0; }
+.dark .result-display.bg-teal-100   { background-color: #0f766e; color: #99f6e4; }
+.dark .result-display.bg-blue-100   { background-color: #1d4ed8; color: #bfdbfe; }
+.dark .result-display.bg-orange-100 { background-color: #c2410c; color: #fed7aa; }
+.dark .result-display.bg-red-100    { background-color: #b91c1c; color: #fecaca; }
+.dark .result-display.bg-gray-100   { background-color: #374151; color: #f3f4f6; }
